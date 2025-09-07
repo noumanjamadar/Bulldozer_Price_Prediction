@@ -24,7 +24,9 @@
 
 ## 🚀 Project Overview  
 
-This project focuses on **predicting the future sale prices of bulldozers at auction** using historical sales data.  
+This project focuses on **predicting the future sale prices of bulldozers at auction** using **real-world industrial auction data**.  
+The dataset contains **400,000+ records** of historical bulldozer sales, making it one of the most comprehensive real-world regression problems on Kaggle.  
+
 The model helps equipment dealers, auctioneers, and analysts make **data-driven pricing decisions** by analyzing features such as **year of manufacture, machine type, usage, and auctioneer details**.  
 
 ---
@@ -33,9 +35,12 @@ The model helps equipment dealers, auctioneers, and analysts make **data-driven 
 
 **Source:** [Kaggle - Blue Book for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers)  
 
+- **Size:** 400K+ records of bulldozer auctions 📊  
 - **Train.csv** → Data until end of 2011  
 - **Valid.csv** → Data from Jan 2012 – Apr 2012  
 - **Test.csv** → Data from May 2012 – Nov 2012 (final evaluation set)  
+
+This large-scale dataset simulates a **real-world pricing challenge** where accurate predictions can significantly impact business profitability.  
 
 ---
 
@@ -94,6 +99,7 @@ This repository contains:
 - **Feature engineering** (temporal features like year, month, machine age) significantly boosts model accuracy.  
 - **Random Forest Regressor with hyperparameter tuning** improves generalization and reduces errors.  
 - Choosing **domain-appropriate metrics** (RMSLE > RMSE for price predictions) is crucial.  
+- Working with **large-scale real-world datasets (400K+ records)** requires efficient memory and computation handling.  
 
 ---
 
@@ -127,10 +133,11 @@ This repository contains:
 - Model Training & Evaluation  
 - Hyperparameter Tuning  
 - Business Insight Generation  
+- Working with **large real-world datasets (400K+ rows)**  
 
 ---
 
 ## 🤝 Connect with Me  
-📌 GitHub: [Your GitHub Profile](https://github.com/yourusername)  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+📌 GitHub: [Check Out my GitHub Profile for other Projects](https://github.com/noumanjamadar/)  
+💼 LinkedIn: [Mohammad Navaman Jamadar](https://www.linkedin.com/in/yourprofile)  
 

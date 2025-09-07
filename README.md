@@ -139,5 +139,5 @@ This repository contains:
 
 ## 🤝 Connect with Me  
 📌 GitHub: [Check Out my GitHub Profile for other Projects](https://github.com/noumanjamadar/)  
-💼 LinkedIn: [Mohammad Navaman Jamadar](https://www.linkedin.com/in/yourprofile)  
+💼 LinkedIn: [Mohammad Navaman Jamadar](https://www.linkedin.com/in/mohammad-navaman-jamadar/)  
 

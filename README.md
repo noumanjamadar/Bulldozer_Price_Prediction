@@ -113,6 +113,33 @@ This repository contains:
 - ✅ **Validation RMSLE** = 0.2452  
 
 📉 Reduced pricing errors by ~70%, translating to an estimated ~30% improvement in pricing cost efficiency
+
+---
+
+### 🔹 Project Results  (Based on Validation Dataset: Year 2012)
+
+### 🔹 Project Results (Validation Dataset: Year 2012)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Project Visuals/Feature Importance.png" alt="Feature Importance" width="280"/><br/>
+      <b>Feature Importance</b><br/>
+      Key factors affecting bulldozer prices are the year made, product size, and year of sale.
+    </td>
+    <td align="center">
+      <img src="Project Visuals/Actual Sale Price vs Predicted Sale Price.png" alt="Actual vs Predicted" width="280"/><br/>
+      <b>Actual vs Predicted Prices</b><br/>
+      On the 2012 validation set, predictions align closely with actual auction prices, showing strong accuracy.
+    </td>
+    <td align="center">
+      <img src="Project Visuals/Distribution of Predicted Errors.png" alt="Residuals Distribution" width="280"/><br/>
+      <b>Error Distribution</b><br/>
+      Most prediction errors are small and centered around zero, meaning the model is stable and reliable.
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠 Tools & Technologies Used  

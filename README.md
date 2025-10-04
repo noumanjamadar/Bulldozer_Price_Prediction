@@ -112,7 +112,7 @@ This repository contains:
 - ✅ **Training RMSLE** = 0.1447  
 - ✅ **Validation RMSLE** = 0.2452  
 
-📉 Reduced pricing errors by ~70%, translating to an estimated ~30% improvement in pricing cost efficiency
+📉  Reduced pricing errors by ~70% compared to a baseline model, and analyzed feature importance to identify key price drivers, guiding profitable auction strategies.
 
 ---
 

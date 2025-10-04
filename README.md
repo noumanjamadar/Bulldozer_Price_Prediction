@@ -1,10 +1,6 @@
 # 🚜 Bulldozer Auction Price Prediction  
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
-![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)  
-![Random Forest](https://img.shields.io/badge/Algorithm-RandomForest-green)  
-![R² Score](https://img.shields.io/badge/R²-0.88-brightgreen)  
-![MAE](https://img.shields.io/badge/MAE-5951-lightblue)  
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) ![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)  ![Random Forest](https://img.shields.io/badge/Algorithm-RandomForest-green) ![R² Score](https://img.shields.io/badge/R²-0.88-brightgreen)  ![MAE](https://img.shields.io/badge/MAE-5951-lightblue)  
 
 ---
 

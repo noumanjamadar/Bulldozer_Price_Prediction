@@ -13,7 +13,7 @@
 - [Key Learnings](#-key-learnings)  
 - [Results](#-results)  
 - [Tools & Technologies Used](#-tools--technologies-used)  
-- [Skills Demonstrated](#-skills-demonstrated)  
+- [Skills Demonstrated](#%E2%80%8D-skills-demonstrated)  
 - [Connect with Me](#-connect-with-me)  
 
 ---
